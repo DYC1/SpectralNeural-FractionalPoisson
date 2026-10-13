@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+results/
+references/
+figures/
+generated_tables/
+dist/
+*.pth
+*.npz
+*.log
